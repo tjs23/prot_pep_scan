@@ -9,7 +9,7 @@ sub-peptide sequences. You can run this script with something like:
 
 `python3 proteome_consec_pep_scan.py /data/p3_ortho/seqs_metazoa/*.fasta.gz -p PEW PLP IRP GGP GPP -n 7 -o eukarya_hits.tsv`
 
-Command line hlp can be accessed via:
+Command line help can be accessed via:
 
 `$> python3 proteome_consec_pep_scan.py -h`
 
